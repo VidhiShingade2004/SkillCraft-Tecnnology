@@ -25,13 +25,7 @@ This project demonstrates basic principles of:
 
 ---
 
-## 🚀 Demo
 
-> 🔗 Live Demo: *[Add GitHub Pages link here if deployed]*
-
-![Caesar Cipher Tool UI](https://github.com/yourusername/your-repo-name/assets/preview-image.png)
-
----
 
 ## 🛠️ Technologies Used
 
