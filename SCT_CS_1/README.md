@@ -25,13 +25,8 @@ This project demonstrates basic principles of:
 
 ---
 
-
-
 ## 🛠️ Technologies Used
 
 - **HTML5** – Structure and content
 - **CSS3** – Responsive and aesthetic styling
 - **JavaScript (Vanilla)** – Cipher logic and interactivity
-
-
-
