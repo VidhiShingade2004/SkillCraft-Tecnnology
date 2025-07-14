@@ -1,0 +1,130 @@
+2025-07-14 12:07:16,895: Key pressed: p
+2025-07-14 12:07:18,002: Key pressed: o
+2025-07-14 12:07:20,024: Key pressed: r
+2025-07-14 12:07:24,121: Key pressed: t
+2025-07-14 12:07:25,767: Key pressed: u
+2025-07-14 12:07:27,806: Key pressed: g
+2025-07-14 12:10:22,121: Key pressed: a
+2025-07-14 12:10:22,432: Key pressed: d
+2025-07-14 12:10:22,586: Key pressed: d
+2025-07-14 12:10:22,687: Special key pressed: Key.space
+2025-07-14 12:10:25,490: Key pressed: c
+2025-07-14 12:10:26,431: Key pressed: o
+2025-07-14 12:10:26,586: Key pressed: l
+2025-07-14 12:10:26,753: Key pressed: o
+2025-07-14 12:10:26,968: Key pressed: r
+2025-07-14 12:10:27,229: Key pressed: s
+2025-07-14 12:10:27,372: Special key pressed: Key.space
+2025-07-14 12:10:27,791: Key pressed: a
+2025-07-14 12:10:28,025: Key pressed: n
+2025-07-14 12:10:28,115: Key pressed: d
+2025-07-14 12:10:28,191: Special key pressed: Key.space
+2025-07-14 12:10:29,365: Key pressed: m
+2025-07-14 12:10:29,537: Key pressed: o
+2025-07-14 12:10:29,638: Key pressed: r
+2025-07-14 12:10:29,689: Key pressed: e
+2025-07-14 12:10:29,756: Special key pressed: Key.space
+2025-07-14 12:10:30,421: Key pressed: f
+2025-07-14 12:10:30,620: Key pressed: e
+2025-07-14 12:10:31,029: Key pressed: a
+2025-07-14 12:10:31,612: Key pressed: t
+2025-07-14 12:10:31,934: Key pressed: u
+2025-07-14 12:10:32,137: Key pressed: r
+2025-07-14 12:10:32,322: Key pressed: e
+2025-07-14 12:10:32,502: Key pressed: s
+2025-07-14 12:10:32,607: Special key pressed: Key.space
+2025-07-14 12:10:32,807: Key pressed: t
+2025-07-14 12:10:32,944: Key pressed: o
+2025-07-14 12:10:33,086: Special key pressed: Key.space
+2025-07-14 12:10:34,143: Key pressed: i
+2025-07-14 12:10:34,225: Key pressed: t
+2025-07-14 12:10:34,323: Special key pressed: Key.space
+2025-07-14 12:10:35,523: Key pressed: a
+2025-07-14 12:10:35,624: Key pressed: n
+2025-07-14 12:10:35,707: Key pressed: d
+2025-07-14 12:10:35,788: Special key pressed: Key.space
+2025-07-14 12:10:36,198: Key pressed: a
+2025-07-14 12:10:36,484: Key pressed: l
+2025-07-14 12:10:36,574: Key pressed: s
+2025-07-14 12:10:36,657: Key pressed: o
+2025-07-14 12:10:36,775: Special key pressed: Key.space
+2025-07-14 12:10:37,116: Key pressed: a
+2025-07-14 12:10:37,408: Key pressed: d
+2025-07-14 12:10:37,524: Key pressed: d
+2025-07-14 12:10:37,639: Special key pressed: Key.space
+2025-07-14 12:10:38,533: Key pressed: a
+2025-07-14 12:10:38,753: Key pressed: d
+2025-07-14 12:10:39,024: Key pressed: d
+2025-07-14 12:10:39,287: Key pressed: i
+2025-07-14 12:10:40,959: Key pressed: t
+2025-07-14 12:10:41,142: Key pressed: i
+2025-07-14 12:10:41,339: Key pressed: o
+2025-07-14 12:10:41,457: Key pressed: n
+2025-07-14 12:10:41,670: Key pressed: a
+2025-07-14 12:10:41,807: Key pressed: l
+2025-07-14 12:10:41,972: Special key pressed: Key.space
+2025-07-14 12:11:11,258: Key pressed: f
+2025-07-14 12:11:11,409: Key pressed: e
+2025-07-14 12:11:11,657: Key pressed: a
+2025-07-14 12:11:11,879: Key pressed: t
+2025-07-14 12:11:12,121: Key pressed: u
+2025-07-14 12:11:12,272: Key pressed: r
+2025-07-14 12:11:12,418: Key pressed: e
+2025-07-14 12:11:12,587: Key pressed: s
+2025-07-14 12:11:12,697: Special key pressed: Key.space
+2025-07-14 12:11:13,439: Key pressed: a
+2025-07-14 12:11:13,565: Key pressed: l
+2025-07-14 12:11:13,599: Key pressed: s
+2025-07-14 12:11:13,720: Key pressed: o
+2025-07-14 12:11:13,831: Special key pressed: Key.space
+2025-07-14 12:11:15,848: Special key pressed: Key.shift_r
+2025-07-14 12:11:16,065: Special key pressed: Key.enter
+2025-07-14 12:11:25,740: Key pressed: m
+2025-07-14 12:11:25,817: Key pressed: a
+2025-07-14 12:11:25,885: Key pressed: k
+2025-07-14 12:11:26,042: Special key pressed: Key.space
+2025-07-14 12:11:26,624: Special key pressed: Key.backspace
+2025-07-14 12:11:26,715: Key pressed: e
+2025-07-14 12:11:26,835: Special key pressed: Key.space
+2025-07-14 12:11:27,420: Key pressed: i
+2025-07-14 12:11:27,504: Key pressed: t
+2025-07-14 12:11:27,560: Special key pressed: Key.space
+2025-07-14 12:11:28,276: Key pressed: b
+2025-07-14 12:11:28,352: Key pressed: e
+2025-07-14 12:11:28,579: Key pressed: a
+2025-07-14 12:11:28,788: Key pressed: u
+2025-07-14 12:11:28,905: Key pressed: t
+2025-07-14 12:11:29,042: Key pressed: i
+2025-07-14 12:11:30,300: Key pressed: f
+2025-07-14 12:11:30,458: Key pressed: u
+2025-07-14 12:11:30,842: Key pressed: l
+2025-07-14 12:11:31,060: Special key pressed: Key.space
+2025-07-14 12:11:32,054: Key pressed: a
+2025-07-14 12:11:32,170: Key pressed: l
+2025-07-14 12:11:32,233: Key pressed: s
+2025-07-14 12:11:32,341: Key pressed: o
+2025-07-14 12:11:32,627: Special key pressed: Key.enter
+2025-07-14 12:12:01,246: Special key pressed: Key.ctrl_l
+2025-07-14 12:12:01,617: Key pressed: 
+2025-07-14 12:12:03,918: Special key pressed: Key.ctrl_l
+2025-07-14 12:12:05,203: Special key pressed: Key.ctrl_l
+2025-07-14 12:12:05,879: Key pressed: 
+2025-07-14 12:12:06,880: Special key pressed: Key.delete
+2025-07-14 12:12:07,236: Special key pressed: Key.ctrl_l
+2025-07-14 12:12:07,882: Key pressed: 
+2025-07-14 12:12:44,103: Special key pressed: Key.ctrl_r
+2025-07-14 12:12:44,617: Key pressed: 
+2025-07-14 12:12:45,963: Special key pressed: Key.ctrl_l
+2025-07-14 12:12:46,245: Key pressed: 
+2025-07-14 12:12:46,806: Key pressed: 
+2025-07-14 12:12:46,962: Key pressed: 
+2025-07-14 12:12:49,092: Special key pressed: Key.ctrl_l
+2025-07-14 12:12:49,191: Special key pressed: Key.shift
+2025-07-14 12:12:49,546: Key pressed: 
+2025-07-14 12:12:49,855: Key pressed: 
+2025-07-14 12:12:50,702: Special key pressed: Key.ctrl_l
+2025-07-14 12:12:50,959: Key pressed: 
+2025-07-14 12:12:51,511: Special key pressed: Key.ctrl_l
+2025-07-14 12:12:51,670: Special key pressed: Key.ctrl_l
+2025-07-14 12:12:51,883: Key pressed: 
+2025-07-14 12:12:52,177: Key pressed: 
